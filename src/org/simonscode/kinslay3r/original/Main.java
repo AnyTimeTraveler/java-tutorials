@@ -1,4 +1,4 @@
-package org.simonscode.kinslay3r;
+package org.simonscode.kinslay3r.original;
 
 public class Main {
     public static void main(String[] args) {
